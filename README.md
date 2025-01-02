@@ -1,2 +1,2 @@
 # CiviCrypt
-De-centralized Application
+De-centralized Voting Application
