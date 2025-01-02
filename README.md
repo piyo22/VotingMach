@@ -1,2 +1,2 @@
-# VotingMach
+# CiviCrypt
 De-centralized Application
